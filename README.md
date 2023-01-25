@@ -1,2 +1,1 @@
-# qrcode
-QR CODE GENERATOR IN PHP
+<p>Are you tired of boring and plain QR codes? Look no further! This QR code website generator written in PHP is here to spice up your life (and website). With the help of the trusty <a href="https://github.com/t0k4rt/phpqrcode">qrlib library</a>, creating QR codes for your website has never been easier (or more fun). Customize the size, error correction level, and even add some personality to your QR codes. Share them with friends, or use them to promote your business like a boss. So why settle for a bland QR code when you can have one that's the life of the party? Give it a try and see the difference it makes!</p>
